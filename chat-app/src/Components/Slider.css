@@ -42,9 +42,9 @@ html, body, #container, .carousel {
 
 .slide {
   display: inline-block;
-	border 2px solid #000;
-  height: 100%;
-  width: 100%;
+	border: 2px solid #000;
+  height: 80%;
+  width: 80%;
 }
 
 .arrow {
